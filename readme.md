@@ -1,4 +1,1 @@
-navigate to 
-~/.ipython/profile_default/startup
-
-copy startup.py
+# Grundzüge des Leichtbaus (Lehrveranstaltung)
